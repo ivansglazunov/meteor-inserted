@@ -1,5 +1,5 @@
 // insertedSchema(defaultRef?: Ref) => SimpleSchema
-var insertedSchema = function(defaultRef) {
+insertedSchema = function(defaultRef) {
 	new SimpleSchema({
 		user: {
 			type: Refs.Schema,
