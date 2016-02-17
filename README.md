@@ -27,6 +27,9 @@ console.log(document);
 
 ## Versions
 
+### 0.0.4
+* Fix Schema
+
 ### 0.0.3
 * server and client
 

@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ivansglazunov:inserted',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'Driving storing the date and the user who created the document.',
   git: 'https://github.com/ivansglazunov/meteor-inserted.git',
   documentation: 'README.md'
