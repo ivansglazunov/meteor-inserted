@@ -24,3 +24,11 @@ console.log(document);
 
 * `insertedSchema.defaultRef: Ref` specify global default user
 * `insertedSchema(defaultRef: Ref)` specify default user for this schema
+
+## Versions
+
+### 0.0.3
+* server and client
+
+### 0.0.2
+* `ivansglazunov:refs@0.1.0`
