@@ -27,6 +27,9 @@ console.log(document);
 
 ## Versions
 
+### 0.0.5
+* Fix autoValue
+
 ### 0.0.4
 * Fix Schema
 
